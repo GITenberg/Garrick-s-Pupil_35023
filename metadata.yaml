@@ -1,0 +1,36 @@
+_repo: Garrick-s-Pupil_35023
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Prichard, J. V.
+    aliases:
+    - Prichard, Joseph Vila
+    - Pritchard, J. V. (Joseph Vila)
+    gutenberg_agent_id: '37400'
+    url: http://www.gutenberg.org/2009/agents/37400
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Filon, Augustin
+    alias: Filon, Pierre Marie Augustin
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '38226'
+    url: http://www.gutenberg.org/2009/agents/38226
+description: ''
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Garrick, David, 1717-1779 -- Fiction'
+- !lcc 'PQ'
+title: Garrick's Pupil
+url: http://www.gutenberg.org/ebooks/35023
